@@ -1,6 +1,7 @@
 # ECE471 Topics in Machine Learning: Remote Sensing
 
 The Cooper Union
+
 Spring 2021
 
 Glacier extent change over time
